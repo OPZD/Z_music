@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\Users\\Ding\\AndroidStudioProjects\\Z_music\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\stat_neutral.png",
+        "source": "D:\\Users\\Ding\\AndroidStudioProjects\\Z_music\\app\\src\\main\\res\\drawable-mdpi\\stat_neutral.png"
+    },
+    {
+        "merged": "D:\\Users\\Ding\\AndroidStudioProjects\\Z_music\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_music_p.png",
+        "source": "D:\\Users\\Ding\\AndroidStudioProjects\\Z_music\\app\\src\\main\\res\\drawable-mdpi\\ic_music_p.png"
+    },
+    {
+        "merged": "D:\\Users\\Ding\\AndroidStudioProjects\\Z_music\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_media_play.png",
+        "source": "D:\\Users\\Ding\\AndroidStudioProjects\\Z_music\\app\\src\\main\\res\\drawable-mdpi\\ic_media_play.png"
+    },
+    {
+        "merged": "D:\\Users\\Ding\\AndroidStudioProjects\\Z_music\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_l.png",
+        "source": "D:\\Users\\Ding\\AndroidStudioProjects\\Z_music\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_l.png"
+    },
+    {
+        "merged": "D:\\Users\\Ding\\AndroidStudioProjects\\Z_music\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\format_music.png",
+        "source": "D:\\Users\\Ding\\AndroidStudioProjects\\Z_music\\app\\src\\main\\res\\drawable-mdpi\\format_music.png"
+    },
+    {
+        "merged": "D:\\Users\\Ding\\AndroidStudioProjects\\Z_music\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_media_pause.png",
+        "source": "D:\\Users\\Ding\\AndroidStudioProjects\\Z_music\\app\\src\\main\\res\\drawable-mdpi\\ic_media_pause.png"
+    },
+    {
+        "merged": "D:\\Users\\Ding\\AndroidStudioProjects\\Z_music\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_media_next.png",
+        "source": "D:\\Users\\Ding\\AndroidStudioProjects\\Z_music\\app\\src\\main\\res\\drawable-mdpi\\ic_media_next.png"
+    },
+    {
+        "merged": "D:\\Users\\Ding\\AndroidStudioProjects\\Z_music\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_media_previous.png",
+        "source": "D:\\Users\\Ding\\AndroidStudioProjects\\Z_music\\app\\src\\main\\res\\drawable-mdpi\\ic_media_previous.png"
+    }
+]

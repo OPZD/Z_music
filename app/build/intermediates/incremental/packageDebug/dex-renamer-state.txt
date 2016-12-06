@@ -1,0 +1,7 @@
+#Mon Nov 28 10:49:32 CST 2016
+base.0=D\:\\Users\\Ding\\AndroidStudioProjects\\Z_music\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_60b09c95e90167d44fab89f031db8bdbdd4c294a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Users\\Ding\\AndroidStudioProjects\\Z_music\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_be23313a6f22316aa7de45032084dbf31c06134e\\classes.dex
+base.1=D\:\\Users\\Ding\\AndroidStudioProjects\\Z_music\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_be23313a6f22316aa7de45032084dbf31c06134e
+file.0=D\:\\Users\\Ding\\AndroidStudioProjects\\Z_music\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_60b09c95e90167d44fab89f031db8bdbdd4c294a\\classes.dex
